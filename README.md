@@ -16,8 +16,8 @@ For stronger security, consider using more advanced encryption techniques and to
 Choose strong passwords and store them securely.
 ## Libraries Used
 
-Tkinter: For creating the GUI
-base64: For encoding and decoding the text
+- tkinter: For creating the GUI
+- base64: For encoding and decoding the text
 ## Contributing
 
 Feel free to contribute to this project by suggesting improvements, reporting issues, or adding features.
